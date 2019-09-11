@@ -344,26 +344,26 @@ class Env(object):
             return False
 
         fruit_collision_handler = self.space.add_collision_handler(
-            collision_type_a=0,
-            collision_type_b=2
+            0,
+            2
         )
         fruit_collision_handler.begin = begin_fruit_collision
 
         poison_collision_handler = self.space.add_collision_handler(
-            collision_type_a=0,
-            collision_type_b=3
+            0,
+            3
         )
         poison_collision_handler.begin = begin_poison_collision
 
         goal_collision_handler = self.space.add_collision_handler(
-            collision_type_a=0,
-            collision_type_b=4
+            0,
+            4
         )
         goal_collision_handler.begin = begin_goal_collision
 
         wall_collision_handler = self.space.add_collision_handler(
-            collision_type_a=0,
-            collision_type_b=1
+            0,
+            1
         )
         wall_collision_handler.begin = begin_wall_collision
 
