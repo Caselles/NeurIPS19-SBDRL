@@ -26,6 +26,7 @@ All material related to our paper is available via the following links:
 | Link                      | Description
 | :--------------           | :----------
 | [Link ArXiv](https://arxiv.org/abs/1904.00243) | Paper PDF.
+| Coming soon. | Project page.
 | Coming soon. | Summary video.
 | [Link Colab](https://colab.research.google.com/drive/1KVlSV24c687N_4TLJWwGTkjt3sh9ufWW) | Colab to reproduce experiments.
 | [Link Github](https://github.com/Caselles/Symmetry_based_Disentanglement)  | Source code.
