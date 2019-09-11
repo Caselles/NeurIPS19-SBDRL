@@ -13,7 +13,7 @@ This repository contains the official code for the NeurIPS 2019 paper "Symmetry-
 
 <p align="center">
   <img src="static/colab_favicon_256px.png"><br>
-  <a href="url">Open Colab Notebook to reproduce paper's experiments.</a>
+  <a href="https://colab.research.google.com/drive/1KVlSV24c687N_4TLJWwGTkjt3sh9ufWW">Open Colab Notebook to reproduce paper's experiments.</a>
 </p>
 
 ------------------------
@@ -25,8 +25,8 @@ All material related to our paper is available via the following links:
 
 | Link                      | Description
 | :--------------           | :----------
-| https://arxiv.org/abs/1904.00243 | Paper PDF.
+| [Link ArXiv](https://arxiv.org/abs/1904.00243) | Paper PDF.
 | Coming soon. | Summary video.
-| Coming soon. | Colab to reproduce experiments.
-| https://github.com/Caselles/Symmetry_based_Disentanglement  | Source code.
+| [Link Colab](https://colab.research.google.com/drive/1KVlSV24c687N_4TLJWwGTkjt3sh9ufWW) | Colab to reproduce experiments.
+| [Link Github](https://github.com/Caselles/Symmetry_based_Disentanglement)  | Source code.
 | Coming soon.  | Presentation slides.
