@@ -322,20 +322,20 @@ class Env(object):
             return False
 
         fruit_collision_handler = self.space.add_collision_handler(
-            0,
-            2
+            a=0,
+            b=2
         )
         fruit_collision_handler.begin = begin_fruit_collision
 
         poison_collision_handler = self.space.add_collision_handler(
-            0,
-            3
+            a=0,
+            b=3
         )
         poison_collision_handler.begin = begin_poison_collision
 
         goal_collision_handler = self.space.add_collision_handler(
-            0,
-            4
+            a=0,
+            b=4
         )
         goal_collision_handler.begin = begin_goal_collision
 
