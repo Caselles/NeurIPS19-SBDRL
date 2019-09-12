@@ -30,4 +30,4 @@ All material related to our paper is available via the following links:
 | Coming soon. | Summary video.
 | [Link Colab](https://colab.research.google.com/drive/1KVlSV24c687N_4TLJWwGTkjt3sh9ufWW) | Colab to reproduce experiments.
 | [Link Github](https://github.com/Caselles/Symmetry_based_Disentanglement)  | Source code.
-| Coming soon.  | Presentation slides.
+| [Link Slides](https://github.com/Caselles/NeurIPS19-SBDRL/blob/master/static/%5BNeurIPS19%5D%20SBDRL%20requires%20Interactions%20with%20Environments.pdf) | Presentation slides.
